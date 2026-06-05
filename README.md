@@ -1,4 +1,9 @@
-## Publications
+## 📄 Publications & Preprints
+
+- **Harness Engineering: The Meta Layer as a First-Class Discipline for Multi-Agent Systems** (2026)
+  Swet Mrigank · Preprint
+  [`doi.org/10.5281/zenodo.20472666`](https://doi.org/10.5281/zenodo.20472666)
+
 
 
 
