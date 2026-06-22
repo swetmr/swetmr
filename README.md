@@ -7,7 +7,8 @@
 
 ## ✍️ Writing
 
-- **The Aesthetics of Code** — syntax matters because code is an interface for human cognition.
+- **The Aesthetics of Code** — syntax matters because code is an interface for human cognition
+  
   [Read on Substack](https://swetmrigank.substack.com/p/the-aesthetics-of-code)
 
 
