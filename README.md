@@ -1,19 +1,13 @@
-## 📄 Publications & Preprints
+## 📄 Papers
 
-- **A Compressed Model-Facing Source Layer with Partially Verified Expansion** (2026)
-  
-  [`doi.org/10.5281/zenodo.21386779`](https://doi.org/10.5281/zenodo.21386779)
-
-- **Harness Engineering: The Meta Layer as a First-Class Discipline for Multi-Agent Systems** (2026)
-  
-  [`doi.org/10.5281/zenodo.20472666`](https://doi.org/10.5281/zenodo.20472666)
-
+- [**A Compressed Model-Facing Source Layer with Partially Verified Expansion**](https://doi.org/10.5281/zenodo.21386779) · Preprint, 2026
+- [**Harness Engineering: The Meta Layer as a First-Class Discipline for Multi-Agent Systems**](https://doi.org/10.5281/zenodo.20472666) · Preprint, 2026
+<!-- - [**Testing, Credible Compilation, and Machine-Checked Routing in PythScribe**](ADD_DOI_URL) · Preprint, 2026 -->
 
 ## ✍️ Writing
 
-- **The Aesthetics of Code** — syntax matters because code is an interface for human cognition
-  
-  [Read on Substack](https://swetmrigank.substack.com/p/the-aesthetics-of-code)
+- [**The Aesthetics of Code**](https://swetmrigank.substack.com/p/the-aesthetics-of-code) — why syntax matters: code is an interface for human cognition.
+
 
 
 
