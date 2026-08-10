@@ -1,5 +1,6 @@
 ## 📄 Papers
 
+- [**Layered Assurance for an Agent-Written Python-to-JavaScript/WebAssembly Compiler**](https://doi.org/10.5281/zenodo.21875694) · Preprint, 2026
 - [**A Compressed Model-Facing Source Layer with Partially Verified Expansion**](https://doi.org/10.5281/zenodo.21386779) · Preprint, 2026
 - [**Harness Engineering: The Meta Layer as a First-Class Discipline for Multi-Agent Systems**](https://doi.org/10.5281/zenodo.20472666) · Preprint, 2026
 <!-- - [**Testing, Credible Compilation, and Machine-Checked Routing in PythScribe**](ADD_DOI_URL) · Preprint, 2026 -->
