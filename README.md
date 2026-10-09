@@ -1,5 +1,7 @@
 ## 📄 Papers
 
+- [**Artificial Higher Intelligence: Towards Higher, Durable Moral and Aesthetic Values**](https://doi.org/10.5281/zenodo.23195011) · Preprint, 2026
+- [**The Verifier Is Where Values Live: Governing Evaluator Revision in Open-Ended AI**](https://doi.org/10.5281/zenodo.23187265) · Preprint, 2026
 - [**Layered Assurance for an Agent-Written Python-to-JavaScript/WebAssembly Compiler**](https://doi.org/10.5281/zenodo.21875694) · Preprint, 2026
 - [**A Compressed Model-Facing Source Layer with Partially Verified Expansion**](https://doi.org/10.5281/zenodo.21386779) · Preprint, 2026
 - [**Different-model review and repair under hidden-test evaluation**](https://doi.org/10.5281/zenodo.22212375) · Preprint, 2026
